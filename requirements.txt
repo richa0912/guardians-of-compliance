@@ -1,0 +1,8 @@
+crewai
+langsmith
+python-dotenv
+ibm_watsonx_ai
+tavily-python
+langchain-core
+langchain-community
+langchain-ibm
